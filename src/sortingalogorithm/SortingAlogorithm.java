@@ -10,18 +10,6 @@ package sortingalogorithm;
  */
 public class SortingAlogorithm {
 
-    /**
-     * insertionSort.
-     */
-    @SuppressWarnings("unused")
-    private static InsertionSort insertionSort;
-
-    /**
-     * selectionSort.
-     */
-    @SuppressWarnings("unused")
-    private static SelectionSort selectionSort;
-
    /**
     * @param args system define
     */
