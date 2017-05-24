@@ -11,7 +11,7 @@ package sortingalogorithm;
 public class InsertionSort {
 
    /**
-    * it is a insertion number.
+    * It Is A Insertion Number.
     */
    private static int insertionNum;
 
@@ -26,7 +26,7 @@ public class InsertionSort {
            for (j = i - 1; j >= 0 && data[j] >= insertionNum; j--) {
                data[j + 1] = data[j];
            }
-           // insertionNumber
+           // InsertionNumber
            data[j + 1] = insertionNum;
        }
        return data;

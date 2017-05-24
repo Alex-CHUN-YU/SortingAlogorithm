@@ -23,7 +23,7 @@ package sortingalogorithm;
                   min = j;
               }
           }
-          //swap
+          //Swap
           int template = data[min];
           data[min] = data[i];
           data[i] = template;

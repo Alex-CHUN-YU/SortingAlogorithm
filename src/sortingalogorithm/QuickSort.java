@@ -28,21 +28,21 @@ package sortingalogorithm;
            while (data[right] > pivot && right > left) {
                right--;
            }
-           //swap
+           //Swap
            int template = data[left];
            data[left] = data[right];
            data[right] = template;
        }
        if (data[left] >= pivot) {
-           //swap
+           //Swap
            int template = data[left];
            data[left] = data[end];
            data[end] = template;
        } else {
-           //last number
+           //Last Number
            left++;
        }
-       //recursive (pivot left and right)
+       //Recursive (pivot left and right)
        getQucikSort(start, left - 1, data);
        getQucikSort(left + 1, end, data);
        return data;
