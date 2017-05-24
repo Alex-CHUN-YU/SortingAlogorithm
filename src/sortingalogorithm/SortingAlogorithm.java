@@ -4,7 +4,7 @@ package sortingalogorithm;
  *
  * MainFunction Test.
  *
- * @version 1.0 2017年4月28日
+ * @version 1.0 2017撟�4��28��
  * @author ALEX-CHUN-YU
  *
  */
@@ -37,7 +37,6 @@ public class SortingAlogorithm {
        for (int i = 0; i < data2.length; i++) {
            System.out.print(data2[i] + " ");
        }
-
     }
 }
 

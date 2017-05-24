@@ -4,7 +4,7 @@ package sortingalogorithm;
  *
  * InsertionSort.
  *
- * @version 1.0 2017年4月28日
+ * @version 1.0 2017/5/24
  * @author ALEX-CHUN-YU
  *
  */
