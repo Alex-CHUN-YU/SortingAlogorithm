@@ -4,7 +4,7 @@ package sortingalogorithm;
  *
  * MainFunction Test.
  *
- * @version 1.0 2017撟�4��28��
+ * @version 1.0 2017/05/24
  * @author ALEX-CHUN-YU
  *
  */

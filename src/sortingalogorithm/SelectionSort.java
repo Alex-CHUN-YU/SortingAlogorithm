@@ -4,7 +4,7 @@ package sortingalogorithm;
  *
  * SelectionSort.
  *
- * @version 1.0 2017/5/24
+ * @version 1.0 2017/05/24
  * @author ALEX-CHUN-YU
  *
  */
