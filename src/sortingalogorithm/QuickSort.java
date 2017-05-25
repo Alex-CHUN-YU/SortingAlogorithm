@@ -18,11 +18,11 @@ package sortingalogorithm;
     */
    public static int[] getQucikSort(final int start, final int end, final  int[] data) {
        //length limit
-	   if (start >= end) {
+       if (start >= end) {
            return data;
        }
        int left = start, right = end - 1, pivot = data[end];
-       //Don't allow equal ! 
+       //Don't allow equal !
        while (right > left) {
            while (data[left] < pivot && right > left) {
                left++;
