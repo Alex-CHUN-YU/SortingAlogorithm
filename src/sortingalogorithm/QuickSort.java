@@ -40,10 +40,10 @@ package sortingalogorithm;
            int template = data[left];
            data[left] = data[end];
            data[end] = template;
-       } /*else {
+       } else {
            //Last Number
            left++;
-       }*/
+       }
        //Recursive (pivot left and right)
        getQucikSort(start, left - 1, data);
        getQucikSort(left + 1, end, data);
