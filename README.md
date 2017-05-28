@@ -11,6 +11,7 @@ Output:</br>
 * 快速排序(QuickSort: 2 12 25 45 96 658)</br>
 
 ## 開發環境
+Java Project
 Eclipse Version: Neon.2 Release (4.6.2)</br>
 JDK: java version "1.8.0_121"</br>
 
