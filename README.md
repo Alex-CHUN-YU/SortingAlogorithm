@@ -1,5 +1,5 @@
 # SortingAlogorithm
-排序的運用影響整體程式的運作，可在WiKi看到此演算法原理(插入排序、選擇排序、快速排序)
+排序的運用影響整體程式的運作，可在WiKi(https://github.com/Alex-CHUN-YU/SortingAlogorithm/wiki)看到此演算法原理(插入排序、選擇排序、快速排序)
 
 ## 使用方式
 Input:</br>
