@@ -3,8 +3,8 @@
 (https://github.com/Alex-CHUN-YU/SortingAlogorithm/wiki)
 ## 使用方式
 Input:</br>
-* 執行SortingAlogorithm.java</br>
-* 輸入大小為六的數字陣列(Ex:12 25 658 96 45 2)</br>
+1. 執行SortingAlogorithm.java</br>
+1. 輸入大小為六的數字陣列(Ex:12 25 658 96 45 2)</br>
 
 Output:</br>
 * 插入排序(InsertionSort: 2 12 25 45 96 658)</br>
