@@ -5,8 +5,8 @@
 ## 使用方式
 Input:</br>
 ```
-執行SortingAlogorithm.java
-輸入大小為六的數字陣列(Ex:12 25 658 96 45 2)
+1.執行SortingAlogorithm.java
+2.輸入大小為六的數字陣列(Ex:12 25 658 96 45 2)
 ```
 Output:</br>
 ```
